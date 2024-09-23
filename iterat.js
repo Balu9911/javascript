@@ -76,4 +76,31 @@
 // while(i<=20)
 
 
+// let users=[{id:101,name:'balu',city:'nlr'},
+//     {id:102,name:'sernu',city:'kdp'}
+// ]
+// // for(user of users){
+// //     console.log("user id",user.id,"and name:",user.name,"and city:",user.city);
+    
+// //}
+
+// //normal for loop
+
+// for(let i=0;i<=2;i++){
+//     console.log("user id:",users[i].id,
+//         ", name:",users[i].name,
+//         ", city:",users[i].city)
+    
+// }
+
+
+// let eid=101
+// let ename="balu"
+
+// console.log(`employee id :$(eid) and name: $(ename)`);
+// console.log("employee id:",eid,"and name:",ename);
+
+
+
+
 
