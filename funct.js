@@ -26,12 +26,36 @@
 // let r2=add(1,2)
 // console.log(r2);
 
-function cal_age(year) {
-    let cy=new Date().getFullYear();
-    return cy-year
+// function cal_age(year) {
+//     let cy=new Date().getFullYear();
+//     return cy-year
+// }
+// let age1=cal_age(1983)
+// console.log(age1);//41
+// let age2=cal_age(2002)
+// console.log(age2);//22
+
+// function login(name) {
+//     let ename="balu"
+//     if(ename==name)
+//         return true
+//     else
+//         return false
+// }
+// let flag=login("rahul")
+// console.log(flag);
+
+
+function login(name) {
+    let ename="balu"
+    if(ename==name)
+        return true
+    else
+        return falsez
 }
-let age1=cal_age(1983)
-console.log(age1);//41
-let age2=cal_age(2002)
-console.log(age2);//22
+ let r1=login("balu")
+ console.log(r1);
+
+
+
 
